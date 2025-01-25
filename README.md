@@ -2,7 +2,9 @@
 
 - Is simple project to practice collaborating.
 
-# Collaboration
+# Our Goal With This Project
 
-- I will be creating the backend
-- Alexius will be creating the frontent
+Our goal is to simulate a professional work environment collaborating with others. 
+
+- I will be creating the backend using [PokeAPI](https://pokeapi.co/)
+- Alexius will be creating the frontent 
